@@ -30,24 +30,30 @@ output:
 ![](endophytes.png)
 ---
 ## Objetivos:
-* Mostrar que gran número de plantas que son utilizadas para aislar metabolitos secundarios de importancia médica albergan hongos endófitos capaces de biosintetizar de manera independiente, los mismos o similares compuestos bioactivos.
-
-
-
-
+* Mostrar que gran número de plantas que son utilizadas para aislar metabolitos secundarios de importancia médica albergan hongos endófitos capaces de biosintetizar los mismos o similares compuestos bioactivos.
 
 * Discutir la evolución y el origen de las rutas involucradas en la biosíntesis de los metabolitos secundarios y las aproximaciones potenciales para mejorar su producción. 
 
 ---
 # *Taxus brevifolia*
 
-En 1993 (Stierle *et al.*) se descubrió que ***Taxomyces andreanae***, endófito de *T. brevifolia*, produce también el metabolito secundario **Paclitaxel** (nombre comercial **Taxol**). 
+En 1993 se descubrió que ***Taxomyces andreanae***, endófito de *T. brevifolia*, produce también el metabolito secundario **Paclitaxel** (nombre comercial **Taxol**). 
+
+```{r echo=FALSE, fig.align='center', out.width = "500px", out.height="150px"}
+knitr::include_graphics("./taxolpaper.png")
+```
+
 .pull-left[
-![](taxomyces.jpg)
+
+```{r echo=FALSE, out.width = "500px", out.height="250px"}
+knitr::include_graphics("taxomyces.jpg")
+```
 ]
 
 .pull-right[
-![](yew.jpg)
+```{r echo=FALSE, out.width = "500px", out.height="250px"}
+knitr::include_graphics("yew.jpg")
+```
 ]
 
 
